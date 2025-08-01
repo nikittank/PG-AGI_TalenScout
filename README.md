@@ -1,5 +1,7 @@
 # 🚀 TalentScout AI - Intelligent Hiring Assistant
 
+http://44.210.114.140:8501/
+
 ## 🎯 Project Overview
 TalentScout Pro is an advanced AI-powered hiring assistant designed to revolutionize technical candidate screening for recruitment agencies. Built with Google's Gemini 2.0 Flash model and deployed on AWS EC2, this intelligent chatbot automates the initial screening process while maintaining a human-like interaction quality.
 
@@ -44,6 +46,10 @@ Upon completion, TalentScout Pro generates detailed assessment reports that incl
 - **Security**: Data privacy best practices implemented
 
 ## 🌐 Demo
+
+
+Uploading VIDEO_DEMO.mp4…
+
 
 
 ## 🚀 Deployment
