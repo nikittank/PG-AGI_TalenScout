@@ -47,9 +47,7 @@ Upon completion, TalentScout Pro generates detailed assessment reports that incl
 
 ## 🌐 Demo
 
-
-Uploading VIDEO_DEMO.mp4…
-
+https://github.com/user-attachments/assets/f6997d81-14b0-43af-bc1e-cd69630a36d9
 
 
 ## 🚀 Deployment
